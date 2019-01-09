@@ -1,0 +1,34 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  background-image: url(header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1{
+  font-family: Montserrat;
+  color: whitesmoke;
+  width: 896px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 600px;
+}
+
+.button{
+  background-color: rgb(224, 104, 78);
+  border: 1px solid rgb(224, 104, 78);
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 305px;
+}
